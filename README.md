@@ -1,4 +1,4 @@
-# form_blog
+#  devProx_test2
 
 ## Installation
 
@@ -7,7 +7,7 @@
 
 1) Clone the repo:
 ```
-git clone https://github.com/kwanda9700/form_blog.git Form
+git clone https://github.com/kwanda9700/ devProx_test2.git Test2
 ```
 
 2) Create `.env` file from the `.env.example` file by running this in the terminal:
